@@ -1,0 +1,2 @@
+Загрузите изображение,Предсказанный класс,Вероятности по классам,timestamp
+.gradio/flagged/Загрузите изображение/5665b4bf6f96c795e4af/clipboard.png,keyboard,"{""label"": ""keyboard"", ""confidences"": [{""label"": ""keyboard"", ""confidence"": 0.4963929355144501}, {""label"": ""headphones"", ""confidence"": 0.30306553840637207}, {""label"": ""mug"", ""confidence"": 0.2005414217710495}]}",2026-03-26 05:56:03.178835
